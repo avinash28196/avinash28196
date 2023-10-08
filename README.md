@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @avinash28196
 - 👀 I’m interested in processing data and visualising it 
-- 🌱 I’m currently learning Deep Nural Network
 - 💞️ I’m looking to collaborate on Data Engineering realted project
 - 📫 How to reach me avinash28196@gmail.com
 
